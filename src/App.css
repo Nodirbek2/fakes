@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css2?family=Signika:wght@100;200;300;400;500;600;700&display=swap);
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Signika', sans-serif;
+  background-color: transparent;
+
+
+}
+
+body{
+  background: url("https://images.unsplash.com/photo-1465146633011-14f8e0781093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80"),
+  #111111;
+
+  
+
+
+}

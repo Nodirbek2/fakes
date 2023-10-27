@@ -1,0 +1,38 @@
+.cont{
+   
+    height: 80vh;
+}
+.con{
+    padding-top: 30px;
+
+}
+.list_img{
+    background-color: transparent;
+    width: 170px;
+    height: 90px;
+}
+.list_imgss{
+
+    width: 170px;
+    height: 150px;
+}
+.lists{
+    width: 90%;
+    height: 80px;
+    margin: 0 auto;
+}
+.d-flex{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    border: 0;
+}
+
+.for-h{
+    color: rgb(144, 223, 148);
+
+    font-size: 32px;
+}
+.d-flexx{
+   display: flex;
+}
